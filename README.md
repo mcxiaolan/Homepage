@@ -43,7 +43,7 @@ Present is presented by Zapic:gift_heart:.
 4. 如果不会可以简单的学一下`PHP`语法.
 
 #### XML模式
-此模式**需设置** 跨域,无需提供PHP支持,由前端解析XML文档,传输数据量较多,在无PHP环境情况下推荐使用.  
+此模式 **需设置** 跨域,无需提供PHP支持,由前端解析XML文档,传输数据量较多,在无PHP环境情况下推荐使用.  
 此处不提供跨域教程,请自行搜索.
 
 1. 在`index.html`内找到`var feedType=...`,修改为`xml`,
