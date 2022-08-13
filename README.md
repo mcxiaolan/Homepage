@@ -39,7 +39,7 @@ Present is presented by Zapic:gift_heart:.
 
 1. 在`index.html`内找到`var feedType=...`,修改为`json`.
 2. 在`feed.php`内找到`$feed_url`;
-3. 将`$feed_url`修改为你的博客RSS订阅地址.
+3. 将`$feed_url`修改为你的博客RSS订阅地址.  
 4. 如果不会可以简单的学一下`PHP`语法.
 
 #### XML模式
